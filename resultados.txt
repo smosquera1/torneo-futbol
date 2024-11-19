@@ -1,0 +1,25 @@
+
+--- Octavos de final ---
+Partido 1: Nacional vs Atlético Mineiro -> Ganador: Nacional
+Partido 2: River Plate vs Gremio -> Ganador: River Plate
+Partido 3: Cerro Porteño vs Santos -> Ganador: Santos
+Partido 4: Peñarol vs LDU Quito -> Ganador: Peñarol
+Partido 5: Olimpia vs Racing Club -> Ganador: Olimpia
+Partido 6: Boca Juniors vs Colo-Colo -> Ganador: Boca Juniors
+Partido 7: Independiente vs Palmeiras -> Ganador: Palmeiras
+Partido 8: São Paulo vs Flamengo -> Ganador: São Paulo
+
+--- Cuartos de final ---
+Partido 1: Nacional vs Santos -> Ganador: Nacional
+Partido 2: Boca Juniors vs River Plate -> Ganador: Boca Juniors
+Partido 3: São Paulo vs Peñarol -> Ganador: São Paulo
+Partido 4: Olimpia vs Palmeiras -> Ganador: Palmeiras
+
+--- Semifinales ---
+Partido 1: São Paulo vs Boca Juniors -> Ganador: São Paulo
+Partido 2: Palmeiras vs Nacional -> Ganador: Nacional
+
+--- Final ---
+Partido 1: São Paulo vs Nacional -> Ganador: Nacional
+
+¡El campeón del torneo es: Nacional!

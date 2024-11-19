@@ -1,0 +1,67 @@
+Estadísticas del Torneo:
+
+Nacional:
+- Partidos jugados: 4
+- Partidos ganados: 4
+- ¡Campeón del torneo!
+
+Independiente:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+LDU Quito:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Gremio:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Flamengo:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Boca Juniors:
+- Partidos jugados: 3
+- Partidos ganados: 2
+
+Atlético Mineiro:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Racing Club:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Santos:
+- Partidos jugados: 2
+- Partidos ganados: 1
+
+Olimpia:
+- Partidos jugados: 2
+- Partidos ganados: 1
+
+Peñarol:
+- Partidos jugados: 2
+- Partidos ganados: 1
+
+Palmeiras:
+- Partidos jugados: 3
+- Partidos ganados: 2
+
+São Paulo:
+- Partidos jugados: 4
+- Partidos ganados: 3
+
+Cerro Porteño:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+Colo-Colo:
+- Partidos jugados: 1
+- Partidos ganados: 0
+
+River Plate:
+- Partidos jugados: 2
+- Partidos ganados: 1
+
